@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:23249cebfc6f5ed4058f1d547d1b20ac:b6ea1f407157fcda7a3f89a8591687d7:da884d79a3a4a0cbcbd0c89e63ee3891$ -->
+<TextureAtlas imagePath="sudoku_spritesheet.png">
+    <SubTexture name="button_background_large_1" x="144" y="884" width="100" height="100"/>
+    <SubTexture name="button_background_large_2" x="2" y="884" width="140" height="100"/>
+    <SubTexture name="button_background_small" x="484" y="2" width="40" height="40"/>
+    <SubTexture name="grid_background_item" x="596" y="953" width="45" height="45"/>
+    <SubTexture name="icon_color" x="643" y="2" width="56" height="43" frameX="0" frameY="-1" frameWidth="56" frameHeight="44"/>
+    <SubTexture name="icon_config" x="284" y="953" width="57" height="57"/>
+    <SubTexture name="icon_help" x="343" y="953" width="48" height="51"/>
+    <SubTexture name="icon_home" x="485" y="953" width="53" height="48" frameX="-1" frameY="0" frameWidth="55" frameHeight="48"/>
+    <SubTexture name="icon_pause" x="393" y="953" width="47" height="50"/>
+    <SubTexture name="icon_resume" x="442" y="953" width="41" height="49" frameX="0" frameY="-1" frameWidth="41" frameHeight="50"/>
+    <SubTexture name="icon_retry" x="540" y="953" width="54" height="47" frameX="0" frameY="-1" frameWidth="54" frameHeight="48"/>
+    <SubTexture name="icon_setzer" x="246" y="953" width="36" height="63" frameX="0" frameY="0" frameWidth="37" frameHeight="64"/>
+    <SubTexture name="sudoku_background" x="2" y="2" width="480" height="880"/>
+    <SubTexture name="sudoku_logo" x="246" y="884" width="356" height="67"/>
+</TextureAtlas>
